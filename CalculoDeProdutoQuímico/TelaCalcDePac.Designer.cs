@@ -143,7 +143,7 @@ namespace CalculoDeProdutoQuímico
             // 
             this.lblNovoVol.AutoSize = true;
             this.lblNovoVol.Font = new System.Drawing.Font("Lucida Console", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblNovoVol.Location = new System.Drawing.Point(165, 166);
+            this.lblNovoVol.Location = new System.Drawing.Point(156, 166);
             this.lblNovoVol.Name = "lblNovoVol";
             this.lblNovoVol.Size = new System.Drawing.Size(82, 11);
             this.lblNovoVol.TabIndex = 9;
@@ -163,7 +163,7 @@ namespace CalculoDeProdutoQuímico
             // 
             this.lblResultadoSinal.AutoSize = true;
             this.lblResultadoSinal.Font = new System.Drawing.Font("Lucida Console", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblResultadoSinal.Location = new System.Drawing.Point(165, 212);
+            this.lblResultadoSinal.Location = new System.Drawing.Point(156, 212);
             this.lblResultadoSinal.Name = "lblResultadoSinal";
             this.lblResultadoSinal.Size = new System.Drawing.Size(68, 11);
             this.lblResultadoSinal.TabIndex = 11;
